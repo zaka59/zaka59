@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zack</h1>
 <h3 align="center">A passionate software developer from France</h3>
 
-- 👨‍💻 All of my projects are available at [elkhayari.com](elkhayari.com) (very old projects)
+- 👨‍💻 All of my projects are available at [elkhayari.com](elkhayari.com)
 
 <p align="left">
 </p>
